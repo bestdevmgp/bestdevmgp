@@ -1,4 +1,5 @@
 ## 👋
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1408)](https://solved.ac/dgsw1408)
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:02a529&height=180&text=Hi,%20I'm%20@bestdevmgp!&animation=twinkling&fontColor=ffffff&fontSize=60" />
     </div>
@@ -26,9 +27,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=bestdevmgp&bg_color=60,000000,434343&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestdevmgp&layout=compact&bg_color=60,000000,434343&title_color=ffffff&text_color=ffffff"
            /> 
-    
-    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1408)](https://solved.ac/dgsw1408)
-</div> 
+    </div> 
     </div>
     
 <!--
