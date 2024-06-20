@@ -1,8 +1,8 @@
 ## 👋
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1408)](https://solved.ac/dgsw1408)
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:02a529&height=180&text=Hi,%20I'm%20@bestdevmgp!&animation=twinkling&fontColor=ffffff&fontSize=60" />
     </div>
+    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1408)](https://solved.ac/dgsw1408)
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
