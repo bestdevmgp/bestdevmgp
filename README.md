@@ -1,6 +1,6 @@
 ## 👋
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&text=Hi,%20I'm%20@bestdevmgp!&animation=twinkling&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&text=Hi,%20I'm%20@bestdevmgp!&animation=twinkling&fontColor=ffffff&fontSize=50" />
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #000000; color: #434343;"> 🛠️ Tech Stacks </h2> <br> 
@@ -15,7 +15,10 @@
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #000000; color: #434343;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/mn9yu_pk/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mn9yu_pk/"> </a>
+    <div align= "center">
+        <a href="mailto:pmg3858@icloud.com" target="_blank">
+        <img alt="Mail.Ru" src ="https://img.shields.io/badge/iCloud Mail-3c79eb.svg?&style=for-the-badge&logo=Mail.Ru&logoColor=white"/>
+        <a href=https://www.instagram.com/mn9yu_pk/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mn9yu_pk/"> </a>
          <a href=https://velog.io/@bestdevmgp/> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@bestdevmgp/"> </a>
          <a href=https://bestdevmgp.notion.site/My-Portfolio-eaa7fdab702642128f818eebc304c76a?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://bestdevmgp.notion.site/My-Portfolio-eaa7fdab702642128f818eebc304c76a?pvs=4"> </a>
     </div>  <br> 
@@ -30,7 +33,11 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1408" />
     </div>
 </div>
-
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #000000; color: #434343;"> ✉️ Posts </h2>
+    <div align= "center">
+        [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bestdevmgp)](https://github.com/bestdevmgp/velog-readme-stats)
+</div>
 <!--
 **bestdevmgp/bestdevmgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
