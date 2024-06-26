@@ -1,4 +1,4 @@
-## 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&text=Hi,%20I'm%20@bestdevmgp!&animation=twinkling&fontColor=ffffff&fontSize=50" />
 </div>
