@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0F2F0,100:000C40&height=180&text=Hi,%20I'm%20@bestdevmgp!&animation=twinkling&fontColor=ffffff&fontSize=50" />
 </div>
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #000000; color: #434343;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid 000000; color: 434343;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
@@ -15,7 +15,7 @@
         </div>
 </div>
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #000000; color: #434343;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid 000000; color: 434343;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center">
         <a href="mailto:pmg3858@icloud.com" target="_blank">
         <img alt="Mail.Ru" src ="https://img.shields.io/badge/Mail-3c79eb.svg?&style=for-the-badge&logo=Mail.Ru&logoColor=white"/>
