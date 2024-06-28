@@ -35,13 +35,7 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1408" />
     </div>
 </div>
-<!-- <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #000000; color: #434343;"> ✉️ Posts </h2>
-    <div align= "center">
-        [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bestdevmgp)](https://github.com/bestdevmgp/velog-readme-stats)
-</div> -->
-<!--
-**bestdevmgp/bestdevmgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **bestdevmgp/bestdevmgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -53,4 +47,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
