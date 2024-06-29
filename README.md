@@ -31,7 +31,7 @@
 <!--         [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
     <div align= "center">
         <img src="https://github-readme-stats.vercel.app/api?username=bestdevmgp&theme=dark&show_icons=true" alt="bestdevmgp's GitHub stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestdevmgp&layout=donut&bg_color=151515&title_color=ffffff&text_color=ffffff"/>  
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestdevmgp&layout=compact&bg_color=151515&title_color=ffffff&text_color=ffffff"/>  
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1408" />
     </div>
 </div>
