@@ -1,7 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
- <div align= "center">
+<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0F2F0,100:000C40&height=180&text=Hi,%20I'm%20@bestdevmgp!&animation=twinkling&fontColor=ffffff&fontSize=50" />
 </div>
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/bestdevmgp?pet-id=594878804264767966"
+    width="600"
+    height="120"
+  />
+</a>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Hello World! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 배움을 즐기며 성장하는 개발자, 박민규입니다.</li><li> Backend Developer 🍀</li><li> DGSW 9th </div>
