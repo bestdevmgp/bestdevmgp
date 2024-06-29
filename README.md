@@ -3,10 +3,11 @@
 </div>
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/bestdevmgp?pet-id=594878804264767966"
+    src="https://render.gitanimals.org/lines/bestdevmgp?pet-id=588314294505172403"
     width="600"
     height="120"
   />
+</a>
 </a>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Hello World! </h2>  
