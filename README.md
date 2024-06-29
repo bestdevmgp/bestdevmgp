@@ -5,7 +5,7 @@
   <img
     src="https://render.gitanimals.org/lines/bestdevmgp?pet-id=588314294505172403"
     width="1000"
-    height="150"
+    height="120"
   />
 </a>
 </a>
