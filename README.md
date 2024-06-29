@@ -50,9 +50,9 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #000000; color: #434343;"> 🏅 Stats </h2>
     <div align= "center">
-        <img src="https://github-readme-stats.vercel.app/api?username=bestdevmgp&theme=dark&show_icons=true" alt="bestdevmgp's GitHub stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestdevmgp&layout=compact&bg_color=151515&title_color=ffffff&text_color=ffffff"/>  
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1408" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bestdevmgp&theme=dark&show_icons=true" alt="bestdevmgp's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestdevmgp&layout=compact&bg_color=151515&title_color=ffffff&text_color=ffffff"/>  
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1408" />
     </div>
 </div>
 <!-- **bestdevmgp/bestdevmgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
