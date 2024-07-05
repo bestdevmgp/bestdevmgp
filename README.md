@@ -18,7 +18,7 @@
     <br>
     </div>
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid 000000; color: 434343;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid 000000; color: 434343;"> 🛠️ Stacks </h2> <br> 
     <div align="center">
 <!-- 	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,kotlin,mysql&frameworks=react,express&tools=git,npm,redis,nodejs,gradle&includeNames=true&themes=material" />
 </div> -->
