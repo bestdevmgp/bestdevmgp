@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0F2F0,100:000C40&height=180&text=Hi,%20I'm%20@bestdevmgp!&animation=twinkling&fontColor=ffffff&fontSize=50" />
 </div>
 <div align="center">
-	<img src="https://github-widgetbox.vercel.app/api/profile?username=bestdevmgp&data=followers,repositories,stars,commits" />
+	<img src="https://github-widgetbox.vercel.app/api/profile?username=bestdevmgp&data=followers,repositories,stars,commits&theme=darkmode" />
 </div>
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -20,8 +20,8 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid 000000; color: 434343;"> 🛠️ Tech Stacks </h2> <br> 
     <div align="center">
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,kotlin,mysql&frameworks=react,express&tools=git,npm,redis,nodejs,gradle&includeNames=true&themes=material" />
-</div>
+<!-- 	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,kotlin,mysql&frameworks=react,express&tools=git,npm,redis,nodejs,gradle&includeNames=true&themes=material" />
+</div> -->
      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
