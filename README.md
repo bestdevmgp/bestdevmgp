@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0F2F0,100:000C40&height=180&text=Hi,%20I'm%20@bestdevmgp!&animation=twinkling&fontColor=ffffff&fontSize=50" />
 </div>
 <div align="center">
-	<img src="https://github-widgetbox.vercel.app/api/profile?username=bestdevmgp&data=followers,repositories,stars,commits&theme=darkmode" />
+	<img src="https://github-widgetbox.vercel.app/api/profile?username=bestdevmgp&data=followers,repositories,stars,commits&theme=default" />
 </div>
 <a href="https://github.com/devxb/gitanimals">
   <img
