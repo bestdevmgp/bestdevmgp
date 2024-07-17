@@ -9,11 +9,6 @@
 >
 </a>
 </a>
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid d8dee4; color: #282d33;"> 👋 Hello World! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 배움을 즐기며 성장하는 개발자, 박민규입니다.</li><li> Backend Developer 🍀</li><li> DGSW 9th </div>
-    <br>
-    </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid 000000; color: 434343;"> 🛠️ Stacks </h2> <br> 
     <div align="center">
