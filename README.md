@@ -12,7 +12,6 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid 000000; color: 434343;"> 🛠️ Stacks </h2> <br> 
     <div align="center">
-<!-- 	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,kotlin,mysql&frameworks=react,express&tools=git,npm,redis,nodejs,gradle&includeNames=true&themes=material" /> -->
     </div>
 </div>
 
@@ -21,24 +20,6 @@
     <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,c,linux,aws,git,github,figma,html,css,js"/>
   </a>
 </div>
-<!-- </div>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon Web Services&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
-<br> -->
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid 000000; color: 434343;"> 🧑‍💻 Contact me </h2> <br>
 </div>
@@ -66,8 +47,9 @@
     </div>
 </div>
 
-<!-- ![](https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/languages.svg) -->
+![](https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/languages.svg)
+
 
 <!-- **bestdevmgp/bestdevmgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
