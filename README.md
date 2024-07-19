@@ -65,6 +65,10 @@
     <img src="http://mazandi.herokuapp.com/api?handle=dgsw1408&theme=cold"/>
     </div>
 </div>
+
+<!-- ![](https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/languages.svg) -->
+
 <!-- **bestdevmgp/bestdevmgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
