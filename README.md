@@ -39,17 +39,13 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid 000000; color: #434343;"> 🏅 Stats </h2>
     <div align= "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bestdevmgp&theme=light&show_icons=true" alt="GitHub stats" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestdevmgp&layout=compact&theme="light"" height="180"/>
+    <img src="https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/overview.svg" alt="Overview">
+    <img src="https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/languages.svg" alt="Languages">
     <br>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1408"/>
     <img src="http://mazandi.herokuapp.com/api?handle=dgsw1408&theme=cold"/>
     </div>
 </div>
-
-![](https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/languages.svg)
-
 
 <!-- **bestdevmgp/bestdevmgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
