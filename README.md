@@ -42,8 +42,8 @@
     <img src="https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/overview.svg" alt="Overview">
     <img src="https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/languages.svg" alt="Languages">
     <br>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1408" width="355"/>
-    <img src="http://mazandi.herokuapp.com/api?handle=dgsw1408&theme=cold" width="355"/>
+<!--     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dgsw1408" width="355"/>
+    <img src="http://mazandi.herokuapp.com/api?handle=dgsw1408&theme=cold" width="355"/> -->
     </div>
 </div>
 
