@@ -10,7 +10,7 @@
     <img src="https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/languages.svg" alt="Languages">
     <br>
     </div>
-<div style="text-align: left;">
+<!-- <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid 000000; color: 434343;"> 🛠️ Stacks </h2> <br> 
     <div align="center">
     </div>
@@ -20,7 +20,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,c,linux,aws,git,github,figma,html,css,js"/>
   </a>
-</div>
+</div> -->
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid 000000; color: 434343;"> 🧑‍💻 Contact me </h2> <br>
 </div>
