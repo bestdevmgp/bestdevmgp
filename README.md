@@ -21,7 +21,7 @@
   </a>
 </div> -->
 <div style="text-align: left;">
-    <h2> </h2> <br>
+    <h2></h2> <br>
 </div>
 
 <div align= "center">
