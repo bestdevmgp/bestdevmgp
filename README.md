@@ -15,7 +15,6 @@
     <div align="center">
     </div>
 </div>
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,c,linux,aws,git,github,figma,html,css,js"/>
