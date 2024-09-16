@@ -28,7 +28,7 @@
     <a href="mailto:pmg3858@icloud.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"/></a>
     <a href=https://www.instagram.com/mn9yu_pk/><img src="https://skillicons.dev/icons?i=instagram"/></a>
 <!--             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mn9yu_pk/"></a> -->
-  <a href=https://www.bestdevmgp.notion.site><img src="https://skillicons.dev/icons?i=notion"/></a>
+  <a href=bestdevmgp.notion.site><img src="https://skillicons.dev/icons?i=notion"/></a>
 <!--              <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://bestdevmgp.notion.site/My-Portfolio-eaa7fdab702642128f818eebc304c76a?pvs=4"> -->
     </div>
     <br>
