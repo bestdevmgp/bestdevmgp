@@ -27,7 +27,7 @@
 <div align= "center">
     <a href="mailto:pmg3858@icloud.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"/></a>
     <a href=https://www.instagram.com/mn9yu_pk/><img src="https://skillicons.dev/icons?i=instagram"/></a>
-  <a href=https://discord.gg/rjSk8Y5v64><img src="https://skillicons.dev/icons?i=discord"/></a>
+  <a href=https://discord.gg/DepBEfqWFz><img src="https://skillicons.dev/icons?i=discord"/></a>
   <a href=https://bestdevmgp.notion.site/How-far-can-I-go-Park-Mingyu-303d28862aeb42129a198da5b8ab8c7e><img src="https://skillicons.dev/icons?i=notion"/></a>
 <!--              <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://bestdevmgp.notion.site/My-Portfolio-eaa7fdab702642128f818eebc304c76a?pvs=4"> -->
     </div>
