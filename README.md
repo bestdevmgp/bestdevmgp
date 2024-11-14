@@ -2,34 +2,21 @@
   <img
     src="https://render.gitanimals.org/lines/bestdevmgp?pet-id=588314294505172403"
     width="1000"
-    height="120"
->
+    height="120">
 </a>
 <div align= "center">
     <img src="https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/overview.svg" alt="Overview">
     <img src="https://github.com/bestdevmgp/github-stats-transparent/blob/output/generated/languages.svg" alt="Languages">
     <br>
     </div>
-<!-- <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid 000000; color: 434343;"> 🛠️ Stacks </h2> <br> 
-    <div align="center">
-    </div>
-</div>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,c,linux,aws,git,github,figma,html,css,js"/>
-  </a>
-</div> -->
 <div style="text-align: left;">
     <h2></h2> <br>
 </div>
-
 <div align= "center">
     <a href=https://bestdevmgp.notion.site/303d28862aeb42129a198da5b8ab8c7e><img src="https://skillicons.dev/icons?i=notion"/></a>
     <a href="mailto:pmg3858@icloud.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"/></a>
     <a href=https://www.instagram.com/mn9yu_pk/><img src="https://skillicons.dev/icons?i=instagram"/></a>
   <a href=https://discord.gg/DepBEfqWFz><img src="https://skillicons.dev/icons?i=discord"/></a>
-<!--              <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://bestdevmgp.notion.site/My-Portfolio-eaa7fdab702642128f818eebc304c76a?pvs=4"> -->
     </div>
     <br>
     <div align= "center">
